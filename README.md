@@ -3,7 +3,7 @@
 This project contains the source code of the lightningBot viewer
 
 
-The goal is to be the last to survive. To do that you can code a bot that will interact with out api and play the right moves.
+The goal is to be the last to survive. To do that you can code a bot that will interact with our api and play the right moves.
 
 
 After the game is played using our API. You can visualize how the game using this viewer hosted on our website (which is not anymore).
