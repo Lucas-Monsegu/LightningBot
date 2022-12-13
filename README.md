@@ -21,8 +21,8 @@ Here is a [trailer](https://www.youtube.com/watch?v=rjhCD6h5H-k) of the project
 # Story of the project
 
 This is a 3 man project that was made during our studies, on our free time.
-After the launch we had many users and an active discord server. People where playing games, coding bots and sharing them.
-One company saw it as an opportunity to make a coding event and they invited the 3 of us to Lille to participate in it. It was fun and we had a free train tickets and pizzas and the person that contacted us also hosted us for the night !
+After the launch we had many users and an active discord server. People were playing games, coding bots and sharing them.
+One company saw it as an opportunity to make a coding event and they invited the 3 of us to Lille to participate in it. It was fun and we had a free train tickets and pizzas and the person that contacted us, also hosted us for the night !
 
 
 ## Beginner's tutorial
